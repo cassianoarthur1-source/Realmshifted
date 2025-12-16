@@ -1,4 +1,3 @@
 repository "Realmshifted 2025-12-11_18-26-40/Realmshifted@4674107553917@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main/TestingAssets"
